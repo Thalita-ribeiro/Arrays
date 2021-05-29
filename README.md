@@ -1,4 +1,4 @@
-<h1 align = "center"> Olá 👋, sou Thalita </h1>
+<h1 align = "center"> Olá 👋, sou a Thalita </h1>
 <h3 align = "center"> Uma apaixonada desenvolvedora de Backend </h3>
 
 - 🔭 Atualmente estou trabalhando em  Arrays.
